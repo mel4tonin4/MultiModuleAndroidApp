@@ -1,0 +1,9 @@
+rootProject.name='App2'
+
+include ':app'
+
+include':lib-ui'
+project(':lib-ui').projectDir = new File('lib-ui')
+
+include ":lib-resources"
+project(':lib-resources').projectDir = new File('lib-resources')
