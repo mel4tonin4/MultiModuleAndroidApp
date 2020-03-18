@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 
-import com.aeyeonmovement.android.choreoplayer.app2.R
+import com.aeyeonmovement.android.choreoplayer.ui.R
 
 class SlideshowFragment : Fragment() {
 
