@@ -14,4 +14,4 @@ This project was created by starting from the "Navigation Drawer Activity" templ
 
 This is now an assigned Android Studio issue with priprity P3: https://issuetracker.google.com/issues/151765079
 
-**The IDE issue is that it fails to provide a proper diagnostics message for this issue, leaving you in the dark**
+**The IDE issue is that it fails to provide a proper diagnostics message for this issue, leaving you in the dark.**
