@@ -1,6 +1,6 @@
 # MultiModuleAndroidApp
 
-**WARNING: This is a purposefully broken project which triggers a bug in Android Studio.**
+**WARNING: This is a purposefully BROKEN PROJECT which triggers a bug in Android Studio.**
 
 A multi-module Android application with resources and UI in two secondary modules
 
