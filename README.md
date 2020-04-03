@@ -1,4 +1,7 @@
 # MultiModuleAndroidApp
+
+**WARNING: This is a purposefully broken project which triggers a bug in Android Studio.**
+
 A multi-module Android application with resources and UI in two secondary modules
 
 This project builds correctly and the application runs.
