@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.aeyeonmovement.android.choreoplayer.app2">
+    package="com.aeyeonmovement.android.choreoplayer.ui">
 </manifest>
